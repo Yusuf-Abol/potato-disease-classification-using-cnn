@@ -1,1 +1,1 @@
-# potato-disease-classification-using-cnn
+# Potato Disease Classification Using CNN
