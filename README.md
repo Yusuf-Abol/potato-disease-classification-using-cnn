@@ -1,1 +1,1 @@
-# Potato Disease Classification Using CNN
+# Tomato Disease Classification Using CNN
